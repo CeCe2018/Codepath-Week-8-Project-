@@ -19,14 +19,22 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: _SQL Injection_________________
 
-Vulnerability #2: ____Session Hijacking/Fixation_____________
+![cedeiysha mayweather sql injection 2](https://user-images.githubusercontent.com/23458001/41395753-a1168c0e-6f63-11e8-8fa1-ad349d685fd2.png)
+![cedeiysha mayweather sql injection](https://user-images.githubusercontent.com/23458001/41395754-a12be824-6f63-11e8-9404-188f6d42b111.png)
 
+Vulnerability #2: ____Session Hijacking/Fixation_____________
 
 ## Green
 
 Vulnerability #1: _____User Enumeration_____________
 
+![cedeiysha mayweather user enumeration 2](https://user-images.githubusercontent.com/23458001/41395755-a148e51e-6f63-11e8-8c6a-1ba63a6f5761.png)
+![cedeiysha mayweather user enumeration](https://user-images.githubusercontent.com/23458001/41395757-a162d794-6f63-11e8-822b-68cc0841bbec.png)
+
 Vulnerability #2: ______Cross-site Scripting____________
+
+![cedeiysha mayweather cross site scripting 1](https://user-images.githubusercontent.com/23458001/41395748-a0b66e5a-6f63-11e8-8c77-a820f783aaf5.png)
+![cedeiysha mayweather cross site scripting](https://user-images.githubusercontent.com/23458001/41395749-a0ccd532-6f63-11e8-9265-7155e9cb3096.png)
 
 
 ## Red
@@ -35,6 +43,8 @@ Vulnerability #1: _Cross-site Request Forgery________________
 
 Vulnerability #2: __Insecure Direct Object Reference________________
 
+![cedeiysha mayweather insecure direct object reference 2](https://user-images.githubusercontent.com/23458001/41395751-a0e54248-6f63-11e8-8be2-5730da12d03a.png)
+![cedeiysha mayweather insecure direct object reference](https://user-images.githubusercontent.com/23458001/41395752-a0fd5c66-6f63-11e8-9459-88f14672468b.png)
 
 ## Notes
 
